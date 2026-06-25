@@ -1,0 +1,131 @@
+# Orbyt
+
+**Controle financeiro pessoal offline com assistente de IA**
+
+---
+
+## 📲 Como instalar
+
+1. Vá até a aba **[Releases](../../releases)** (menu à direita desta página)
+2. Baixe o arquivo `orbyt-vX.X.X.apk` da versão mais recente
+3. No celular: **Configurações → Segurança → Permitir instalação de apps de fontes desconhecidas**
+4. Abra o arquivo baixado e confirme a instalação
+
+> **Atualização automática:** após instalar, o Orbyt verifica novas versões ao abrir e oferece atualizar com um toque — sem precisar voltar aqui.
+
+---
+
+## ✨ O que o Orbyt faz
+
+### 💰 Controle financeiro completo
+- Registre receitas e despesas por categoria
+- Planejador mensal com visão trimestral e tabela anual
+- Projeção do saldo ao final do ano baseada nos meses anteriores
+- Pull-to-refresh e sincronização em tempo real
+
+### 💳 Cartões de crédito
+- Fatura calculada automaticamente e exibida no Planejador como despesa
+- Compras parceladas distribuídas pelos meses seguintes
+- Suporte a qualquer banco brasileiro via BrasilAPI (com busca por nome)
+- Gerencie múltiplos cartões com dia de vencimento e banco personalizados
+
+### 🔄 Transações recorrentes
+- Crie uma cobrança recorrente (aluguel, assinatura, salário…) uma única vez
+- O app gera automaticamente os próximos 12 meses
+- Exclua apenas uma ocorrência ou todas as futuras
+
+### 🤖 Orbyt AI — assistente de finanças
+- Botão flutuante disponível em todas as telas
+- Converse por texto ou voz (microfone com animação de ondas)
+- O assistente consulta seu saldo, lista transações, navega pelo app e cria lançamentos direto no chat
+- Confirme antes de salvar: o assistente mostra um preview das transações antes de registrar
+
+### 🔐 Segurança
+- Dados salvos localmente com banco de dados criptografado
+- Login com digital ou reconhecimento de rosto (biometria nativa do celular)
+- Bloqueio de captura de tela e thumbnail no histórico de apps
+- Autenticação via e-mail/senha ou conta Google
+
+### ☁️ Offline-first com sincronização na nuvem
+- Tudo funciona sem internet — os dados ficam no celular
+- Quando conectado, sincroniza automaticamente com a nuvem
+- Ao voltar do background, sincroniza em segundo plano
+
+### 🎨 Personalização
+- 4 temas de fundo: Padrão, Campo Estelar animado, Gradiente Espacial, Escuro Total
+- Modo para daltonismo: receitas em ciano e despesas em magenta (em vez de verde/vermelho)
+
+---
+
+## 📋 Histórico de versões
+
+### v1.15.1
+- 🐛 Login com digital/rosto não trava mais ao ativar nas configurações de Perfil
+- 🐛 Samsung Pass e outros gerenciadores de senha agora oferecem salvar as credenciais após o login
+
+### v1.15.0
+- 🎨 Seletor visual de fundo com prévia ao vivo de cada tema
+- 🔑 Login com Google funciona corretamente no Android
+- 🔐 Ativar biometria agora exige confirmação da senha atual para mais segurança
+- 🔄 App detecta novas versões e baixa/instala automaticamente
+
+### v1.14.0
+- 🌈 Modo daltônico: cores distintas para receita (ciano) e despesa (magenta)
+- 💳 Cartões: botão ⋮ para Editar ou Excluir direto no card (sem precisar deslizar)
+- 📊 Projeção anual visível no resumo mensal do Planejador
+- 💳 Banco do cartão selecionado pela BrasilAPI completa com campo de busca
+
+### v1.13.0
+- 💳 Seção de cartões aparece em todos os meses, mesmo sem compras no período
+- 💳 Toque no cartão para editar nome, banco e dia de vencimento
+- 🔄 "Tornar recorrente" disponível também no Planejador, não só em Transações
+
+### v1.12.0
+- 💳 Fatura do cartão integrada ao Planejador como despesa automática do mês
+- 💳 Compras parceladas: o valor total é dividido e lançado nos meses seguintes
+- 💳 Gerencie múltiplos cartões pelo Planejador
+
+### v1.11.0
+- 🔄 Transações recorrentes: crie uma vez, o app repete automaticamente por 12 meses
+- 🏦 Banco associado a transações com badge discreto no card
+- 📅 Planejador: deslize horizontalmente para navegar entre meses
+
+### v1.10.0
+- 👤 Altere seu e-mail diretamente pelo app sem precisar sair da conta
+- 🤖 Assistente IA com correções de estabilidade
+
+### v1.9.0
+- 🔑 Troque sua senha diretamente pelo app (sem receber link por e-mail)
+- 👤 Botão "Sair da conta" no rodapé do Perfil
+
+### v1.8.0
+- 🎤 Assistente IA com microfone — fale e o texto é digitado automaticamente
+- 🔐 Após o primeiro login, o app oferece ativar o login biométrico
+
+### v1.7.0
+- 👆 Login com digital ou Face ID
+- 🎤 Chat da IA com campo de texto multilinha e animação de onda de áudio no microfone
+
+### v1.5.0
+- 🤖 Orbyt AI: assistente de finanças integrado em todas as telas
+- 🎙️ Controle por voz — navegue, consulte saldo e crie transações falando
+
+### v1.4.0
+- 🔒 Banco de dados criptografado no celular
+- 📵 Bloqueio de capturas de tela e thumbnail no histórico de apps
+
+### v1.3.0
+- 🧭 Navbar flutuante inteligente (recolhe ao rolar, expande ao tocar)
+- 📅 Visão anual do planejador organizada por trimestre
+- 🔄 Patrimônio atualizado automaticamente ao adicionar transações
+
+---
+
+## 📱 Requisitos
+
+- Android 5.0 (API 21) ou superior
+- Aproximadamente 50 MB de espaço disponível
+
+---
+
+*Distribuição privada — uso pessoal*
