@@ -2,12 +2,15 @@
 
 **Controle financeiro pessoal offline com assistente de IA**
 
+Versão atual: [Orbyt v1.68.3+170](https://github.com/mhaetinger/orbyt-releases/releases/tag/v1.68.3).
+[Baixar APK](https://github.com/mhaetinger/orbyt-releases/releases/download/v1.68.3/app-release.apk).
+
 ---
 
 ## 📲 Como instalar
 
 1. Vá até a aba **[Releases](../../releases)** (menu à direita desta página)
-2. Baixe o arquivo `orbyt-vX.X.X.apk` da versão mais recente
+2. Baixe o arquivo `app-release.apk` da versão mais recente
 3. No celular: **Configurações → Segurança → Permitir instalação de apps de fontes desconhecidas**
 4. Abra o arquivo baixado e confirme a instalação
 
@@ -21,7 +24,7 @@
 - Registre receitas e despesas por categoria
 - Planejador mensal com visão trimestral e tabela anual
 - Projeção do saldo ao final do ano baseada nos meses anteriores
-- Pull-to-refresh e sincronização em tempo real
+- Atualização manual e sincronização automática em primeiro plano, a cada 5 minutos
 
 ### 💳 Cartões de crédito
 - Fatura calculada automaticamente e exibida no Planejador como despesa
@@ -31,7 +34,7 @@
 
 ### 🔄 Transações recorrentes
 - Crie uma cobrança recorrente (aluguel, assinatura, salário…) uma única vez
-- O app gera automaticamente os próximos 12 meses
+- O app gera uma ocorrência por competência ao navegar pelos meses, preservando parcelas adiantadas
 - Exclua apenas uma ocorrência ou todas as futuras
 
 ### 🤖 Orbyt AI — assistente de finanças
@@ -47,7 +50,7 @@
 - Autenticação via e-mail/senha ou conta Google
 
 ### ☁️ Offline-first com sincronização na nuvem
-- Tudo funciona sem internet — os dados ficam no celular
+- Cadastro e planejamento funcionam sem internet; o chat da IA exige conexão
 - Quando conectado, sincroniza automaticamente com a nuvem
 - Ao voltar do background, sincroniza em segundo plano
 
@@ -58,6 +61,15 @@
 ---
 
 ## 📋 Histórico de versões
+
+### v1.68.3
+- Lembretes abrem o Planejador; Sim, efetivar / Ainda não no sino e no Android
+- Pagamento parcial ou antecipado de fatura com conta e data
+- Análises por categoria, navegação por dia e lista diária recolhível
+- Comprovantes compartilhados e extratos OFX/CSV com revisão
+- Revisão de recorrência, saldo/desfazer, datas e conversas da IA
+- Formulários do cartão com valor antes do nome
+- 648 testes passaram; notificações, OCR e respostas financeiras da IA precisam da conferência no aparelho
 
 ### v1.15.1
 - 🐛 Login com digital/rosto não trava mais ao ativar nas configurações de Perfil
@@ -123,9 +135,9 @@
 
 ## 📱 Requisitos
 
-- Android 5.0 (API 21) ou superior
-- Aproximadamente 50 MB de espaço disponível
+- Android 7.0 (API 24) ou superior
+- Espaço livre para baixar o APK e instalar a atualização
 
 ---
 
-*Distribuição privada — uso pessoal*
+*Projeto pessoal — distribuição por APK*
