@@ -2,8 +2,8 @@
 
 **Controle financeiro pessoal offline com assistente de IA**
 
-Versão atual: [Orbyt v1.68.3+170](https://github.com/mhaetinger/orbyt-releases/releases/tag/v1.68.3).
-[Baixar APK](https://github.com/mhaetinger/orbyt-releases/releases/download/v1.68.3/app-release.apk).
+Versão atual: [Orbyt v1.68.4+171](https://github.com/mhaetinger/orbyt-releases/releases/tag/v1.68.4).
+[Baixar APK](https://github.com/mhaetinger/orbyt-releases/releases/download/v1.68.4/app-release.apk).
 
 ---
 
@@ -61,6 +61,13 @@ Versão atual: [Orbyt v1.68.3+170](https://github.com/mhaetinger/orbyt-releases/
 ---
 
 ## 📋 Histórico de versões
+
+### v1.68.4
+- Resultado mensal em destaque e pagamentos anteriores já abatidos desde o dia 1
+- Histórico acumulado separado, preservando a saída no mês do pagamento
+- Por dia liga/desliga e mantém a escolha ao reabrir
+- Resumo para valores grandes/fonte ampliada; ajuda e tutorial atualizados
+- 659 testes passaram e análise sem problemas; conferir os ajustes no telefone
 
 ### v1.68.3
 - Lembretes abrem o Planejador; Sim, efetivar / Ainda não no sino e no Android
