@@ -2,8 +2,8 @@
 
 **Controle financeiro pessoal offline com assistente de IA**
 
-Versão atual: [Orbyt v1.68.6+173](https://github.com/mhaetinger/orbyt-releases/releases/tag/v1.68.6).
-[Baixar APK](https://github.com/mhaetinger/orbyt-releases/releases/download/v1.68.6/app-release.apk).
+Versão atual: [Orbyt v1.68.7+174](https://github.com/mhaetinger/orbyt-releases/releases/tag/v1.68.7).
+[Baixar APK](https://github.com/mhaetinger/orbyt-releases/releases/download/v1.68.7/app-release.apk).
 
 ---
 
@@ -61,6 +61,13 @@ Versão atual: [Orbyt v1.68.6+173](https://github.com/mhaetinger/orbyt-releases/
 ---
 
 ## 📋 Histórico de versões
+
+### v1.68.7
+- Editar e excluir pagamento pelo próprio lançamento, preservando vínculo e saldo
+- Mês e valores completos; botões e cabeçalhos reorganizados para telas pequenas
+- Organização em lista estável, com Aplicar e Cancelar
+- Categorias nas compras, parcelas e assinaturas do cartão, refletidas nas análises
+- Colar, substituir e apagar valores corrigidos no campo monetário
 
 ### v1.68.6
 - Débito, Pix e boleto vinculados à recorrência contam uma vez; dados antigos são reparados na sincronização
