@@ -2,8 +2,8 @@
 
 **Controle financeiro pessoal offline com assistente de IA**
 
-Versão atual: [Orbyt v1.68.9+176](https://github.com/mhaetinger/orbyt-releases/releases/tag/v1.68.9).
-[Baixar APK](https://github.com/mhaetinger/orbyt-releases/releases/download/v1.68.9/app-release.apk).
+Versão atual: [Orbyt v1.73.1+184](https://github.com/mhaetinger/orbyt-releases/releases/tag/v1.73.1).
+[Baixar APK](https://github.com/mhaetinger/orbyt-releases/releases/download/v1.73.1/app-release.apk).
 
 ---
 
@@ -61,6 +61,11 @@ Versão atual: [Orbyt v1.68.9+176](https://github.com/mhaetinger/orbyt-releases/
 ---
 
 ## 📋 Histórico de versões
+
+### v1.73.1
+- 🏦 Consulta de contas e saldos com a própria aplicação Meu Pluggy; corrente e poupança agrupadas com detalhes separados.
+- 🔐 Ajustes na renovação de sessão e no cabeçalho; os dados manuais seguem preservados.
+- 📱 Cards mais compactos e revisão de fontes; o Planejador conectado e a leitura de transações ainda estão em desenvolvimento.
 
 ### v1.68.9
 - Cabeçalho e botões da fatura menores, compras separadas visualmente e categoria sem ocupar outra linha alta
